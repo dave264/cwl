@@ -1,0 +1,217 @@
+<a href="http://shanghai.chawuliu.com/city/shanghai"><b>上海</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/beijing">北京</a>
+										<a href="http://shanghai.chawuliu.com/city/tianjin"><b>天津</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/zhongqing">重庆</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>浙江</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/hangzhou"><b>杭州</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/yiwu"><b>义乌</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/cixi"><b>慈溪</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/wenzhou">温州</a>
+										<a href="http://shanghai.chawuliu.com/city/jiaxing">嘉兴</a>
+										<a href="http://shanghai.chawuliu.com/city/lishui">丽水</a>
+										<a href="http://shanghai.chawuliu.com/city/yongkang"><b>永康</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/ningbo"><b>宁波</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/jinhua">金华</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>江苏</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/nanjing"><b>南京</b></a>
+										<a href="http://shanghai.chawuliu.com/city/wuxi"><b>无锡</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/suzhou"><b>苏州</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/nantong">南通</a>
+										<a href="http://shanghai.chawuliu.com/city/yangzhou">扬州</a>
+										<a href="http://shanghai.chawuliu.com/city/lianyungang">连云港</a>
+										<a href="http://shanghai.chawuliu.com/city/yancheng">盐城</a>
+										<a href="http://shanghai.chawuliu.com/city/zhenjiang">镇江</a>
+										<a href="http://shanghai.chawuliu.com/city/changzhou"><b>常州</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/huaian">淮安</a>
+										<a href="http://shanghai.chawuliu.com/city/taizhou">泰州</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>山东</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/jinan"><b>济南</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/linyi"><b>临沂</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/qingdao"><b>青岛</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/rizhao">日照</a>
+										<a href="http://shanghai.chawuliu.com/city/zibo">淄博</a>
+										<a href="http://shanghai.chawuliu.com/city/dongying">东营</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>安徽</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/maanshan">马鞍山</a>
+										<a href="http://shanghai.chawuliu.com/city/hefei"><b>合肥</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>广东</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/guangzhou"><b>广州</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+										<a href="http://shanghai.chawuliu.com/city/foshan">佛山</a>
+										<a href="http://shanghai.chawuliu.com/city/chaozhou">潮州</a>
+										<a href="http://shanghai.chawuliu.com/city/shantou">汕头</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>福建</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/nanping">南平</a>
+										<a href="http://shanghai.chawuliu.com/city/sanming">三明</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>江西</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/nanchang"><b>南昌</b></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>湖南</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/changsha"><b>长沙</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>湖北</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/wuhan"><b>武汉</b></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>河南</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/zhengzhou"><b>郑州</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>河北</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/baoding">保定</a>
+										<a href="http://shanghai.chawuliu.com/city/cangzhou">沧州</a>
+										<a href="http://shanghai.chawuliu.com/city/shijiazhuang">石家庄</a>
+										<a href="http://shanghai.chawuliu.com/city/xingtai">邢台</a>
+										<a href="http://shanghai.chawuliu.com/city/langfang">廊坊</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>四川</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/chengdu"><b>成都</b><span style='background:#f00;color:#fff;border-radius:2px;'>hot</span></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>辽宁</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/dalian">大连</a>
+										<a href="http://shanghai.chawuliu.com/city/shenyang"><b>沈阳</b></a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>内蒙古</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/baotou">包头</a>
+										<a href="http://shanghai.chawuliu.com/city/tongliao">通辽</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>甘肃</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/lanzhou">兰州</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>青海</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/xining">西宁</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>陕西</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/xian">西安</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>云南</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/kunming">昆明</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>贵州</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/guiyang">贵阳</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>黑龙江</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/haerbin">哈尔滨</a>
+										<a href="http://shanghai.chawuliu.com/city/qiqihaer">齐齐哈尔</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>吉林</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/changchun">长春</a>
+										<a href="http://shanghai.chawuliu.com/city/tonghua">通化</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>海南</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/haikou">海口</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>山西</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/linfen">临汾</a>
+										<a href="http://shanghai.chawuliu.com/city/yuncheng">运城</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>新疆</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/hami">哈密</a>
+									</div>
+				<div class='c'></div>
+			</div>
+						<div class='city_item'>
+				<a class='city_item_title'><strong>广西</strong></a>
+				<div class='city_item_list'>
+										<a href="http://shanghai.chawuliu.com/city/liuzhou">柳州</a>
+									</div>
